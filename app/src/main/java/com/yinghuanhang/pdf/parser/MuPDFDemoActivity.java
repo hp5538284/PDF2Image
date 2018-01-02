@@ -124,7 +124,6 @@ public class MuPDFDemoActivity extends AppCompatActivity {
                 }
             });
             editor.setVisibility(View.VISIBLE);
-
             return;
         }
 
