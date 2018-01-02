@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Application</string>
+
+    <string name="main_help">打开方式：
+        \n1：在文件管理器中选中PDF文件，长按文件调出菜单（如果可以），点击发送，选择此应用。
+        \n2：微信或QQ下载发送过来的PDF文件，点开后选择其他应用打开，选择此应用。
+        \n3：其他能分享或者打开PDF文档的操作</string>
 </resources>
